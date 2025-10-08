@@ -448,7 +448,7 @@ body {
 
 /* Form VCG - Fifth in links-section */
 .links-section .link-item:nth-child(5) .link-icon {
-    background: linear-gradient(145deg, #ff6b35, #f7931e);
+    background: #dbd700;
     color: #ffffff;
 }
 
